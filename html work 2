@@ -1,0 +1,362 @@
+!DOCTYPE html>
+<html>
+<head>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143809830-1" type="851ba97ee621508f2372bdc6-text/javascript"></script>
+<script type="851ba97ee621508f2372bdc6-text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-143809830-1');
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-836695060" type="851ba97ee621508f2372bdc6-text/javascript"></script>
+<script type="851ba97ee621508f2372bdc6-text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-836695060');
+    </script>
+
+<script type="851ba97ee621508f2372bdc6-text/javascript">
+    function gtag_report_conversion(url) {
+        var callback = function () {
+        if (typeof(url) != 'undefined') {
+            window.location = url;
+        }
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-836695060/0WESCLvYxacBEJTo-44D',
+            'event_callback': callback
+        });
+        return false;
+    }
+    </script>
+<meta charset="UTF-8">
+<meta name="keywords" content="Вывод денег со стима. ( Как вывести деньги со стима. ) / Как положить деньги на стим с выгодой. Ключи для ставок. Купить ключи. / Продать ключи. (Ключи от кейсов CS:GO. Ключи от ящиков TF2.) Ключи Team Fortress 2. ( Ключи TF2. / Ключи ТФ2.) / Ключи CS:GO. ( Ключи ксго. ) Ключи за QIWI. / Ключи за киви. Ключи за WMR. / Ключи за вмр. / Ключи за вебмани. Продать ключи CS:GO. / Продать ключи CS:GO за киви. / Продать ключи CS:GO за QIWI. / Продать ключи CS:GO за webmoney. / Продать ключи CS:GO за WMR. / Продать ключи CS:GO за вмр. Продать ключи Team Fortress 2 за киви. / Продать ключи Team Fortress 2 за QIWI. / Продать ключи Team Fortress 2 за вмр. / Продать ключи Team Fortress 2 за WMR. / Продать ключи Team Fortress 2 за webmoney.Ключи / кеи за реал, ключи / кеи TF2 / ТФ2 / ТФ / TF, ключи / кеи CS:GO / КС ГО / КС / CS, продать / купить ключи / кеи за реал, ключи / кеи за КИВИ / QIWI, ключи / кеи от кейсов CS:GO / КС ГО / КС / CS, ключи / кеи от ящиков TF2 / ТФ2 / ТФ / TF, продать / купить ключи / кеи CS:GO / КС ГО / КС / CS, продать / купить ключи / кеи TF2 / ТФ2 / ТФ / TF, ключи / кеи CS:GO / КС ГО / КС / CS за КИВИ / QIWI, ключи / кеи TF2 / ТФ2 / ТФ / TF за КИВИ / QIWI, дешево купить ключи / кеи TF2 / ТФ2 / ТФ / TF, дешево купить ключи / кеи CS:GO / КС ГО / КС / CS, ключи / кеи CS:GO / КС ГО / КС / CS, ключи / кеи TF2 / ТФ2 / ТФ / TF, ключи / кеи для ставок, дешевые ключи / кеи за реал, ключи / кеи Steam / Стим, раздача ключей / кеев в Steam / Стим, дешевые ключи / кеи CS:GO / КС ГО / КС / CS, дешевые ключи / кеи TF2 / ТФ2 / ТФ / TF, дешево купить рефы / очищенный металл, купить / продать рефы / очищенный металл TF2 / ТФ2 / ТФ / TF, рефы / очищенный металл TF2 / ТФ2 / ТФ / TF, рефы / очищенный металл за КИВИ / QIWI, рефы / очищенный металл за реал, дешевые рефы / очищенный металл за реал, дешевые рефы / очищенный металл. / очищенный металл для ставок / рефы для ставок">
+<meta name="description" content="A trading platform for instant exchange of Team Fortress 2 items with bots.">
+<meta name="viewport" content="width=768, initial-scale=1.0">
+<title>TF TRADE</title>
+
+<link rel="shortcut icon" href="static/img/favicon.ico" type="image/x-icon">
+<input type="hidden" name="csrfmiddlewaretoken" value="JxQWWJBIQ6oDMzvqidjDI8isIoAc3sINoaQ0CuJfTKlqF2esu1X95oWQgTQpeAhx">
+
+<script src="/static/js/jquery/jquery-3.2.1.min.js" type="851ba97ee621508f2372bdc6-text/javascript"></script>
+
+<script src="/static/js/arcticmodal/jquery.arcticmodal-0.3.min.js" type="851ba97ee621508f2372bdc6-text/javascript"></script>
+<link rel="stylesheet" href="/static/js/arcticmodal/jquery.arcticmodal-0.3.css">
+
+<link rel="stylesheet" href="/static/css/fontawesome/css/font-awesome.min.css?v1">
+
+<link rel="stylesheet" href="/static/js/arcticmodal/themes/simple.css">
+<script src="https://cdn.jsdelivr.net/npm/vue" type="851ba97ee621508f2372bdc6-text/javascript"></script>
+</head>
+<script type="851ba97ee621508f2372bdc6-text/javascript">
+    var loggedIn = "False"
+    var key_value = parseFloat('51')
+</script>
+<body>
+<input type="hidden" id="preload-01">
+<input type="hidden" id="preload-02">
+<input type="hidden" id="preload-03">
+<input type="hidden" id="preload-04">
+<input type="hidden" id="preload-05">
+<input type="hidden" id="preload-06">
+<input type="hidden" id="preload-07">
+<input type="hidden" id="preload-08">
+<input type="hidden" id="preload-09">
+<input type="hidden" name="hash" value="====Q6UHBSTCTERKNS62E5ZJ">
+<a href="//www.free-kassa.ru/"><img src="//www.free-kassa.ru/img/fk_btn/32.png" title="Прием платежей на сайте"></a>
+<div id="header">
+<div class="row">
+<h1 id="logo">
+<span>TF</span>
+<span style="position: relative; margin-left: -10px">
+<img id="logo_hat" width="50" height="50" style="position: absolute; display: none">
+<img id="logo_effect" width="50" height="50" style="position: absolute;">
+</span>
+<span style="margin-left: 60px">TRADE</span>
+</h1>
+<form class="locale" action="/i18n/setlang/" method="post">
+<input type="hidden" name="csrfmiddlewaretoken" value="JxQWWJBIQ6oDMzvqidjDI8isIoAc3sINoaQ0CuJfTKlqF2esu1X95oWQgTQpeAhx">
+<input name="next" type="hidden" value="" />
+<select name="language" onchange="if (!window.__cfRLUnblockHandlers) return false; this.form.submit()" data-cf-modified-851ba97ee621508f2372bdc6-="">
+<option value="ru" selected>
+ru
+</option>
+<option value="en">
+en
+</option>
+</select>
+</form>
+<form method="post" class="locale" action="change_currency/">
+<input type="hidden" name="csrfmiddlewaretoken" value="JxQWWJBIQ6oDMzvqidjDI8isIoAc3sINoaQ0CuJfTKlqF2esu1X95oWQgTQpeAhx">
+<select name="currency" onchange="if (!window.__cfRLUnblockHandlers) return false; this.form.submit()" data-cf-modified-851ba97ee621508f2372bdc6-="">
+<option value="keys">Ключ</option>
+<option value="refs">Реф</option>
+</select>
+</form>
+<i class="fa fa-user" name="icon" id="users_online"><a aria-label="Пользователей онлайн" data-balloon-pos="down"> 0</a></i>
+<i class="fa fa-exchange" id="trades_today" name="icon"><a aria-label="Обменов сегодня" data-balloon-pos="down"> 96</a></i>
+</div>
+<div class="row">
+<img id="login" onclick="if (!window.__cfRLUnblockHandlers) return false; window.location.href = 'login/'" src="/static/img/steamauth.png" width="120" height="45" data-cf-modified-851ba97ee621508f2372bdc6-="">
+</div>
+</div>
+
+<div style="display: none;">
+<div class="box-modal" id="giftmodal">
+<div class="box-modal_close arcticmodal-close"><i class="fa fa-times"></i></div>
+<h3>Цены</h3>
+<hr>
+<p>Необычные вещи оцениваются в зависимости от эффекта</p>
+<p>Все остальные вещи оцениваются в зависимости от количества подобных вещей у ботов</p>
+<p>
+Добавьте к своему нику Steam <a style="color:#27ae60;">tftrade.ru</a> или <a style="color:#27ae60;">tftrade.net</a> <br> Перезайдите на сайт, перезагрузите инвентарь<br> И получите <a style="color:#8e44ad">2%</a> к стоимости ваших вещей!
+</p>
+<hr>
+<h3>Инфо</h3>
+<hr>
+<p>1. Мы возвращаем сдачу на баланс</p>
+<p>2. Перед обменом проверьте, можете ли вы обмениваться, иначе бот не сможет отправить вам обмен</p>
+<p>3. Если случилась ошибка обратитесь в помощь</p>
+</div>
+</div>
+<div class="message" v-if='on' :id="id">
+<p v-html='message'></p>
+</div>
+<div class="invs">
+<div class="inv" id="user_inv">
+<div class="inv_header">
+<div>
+<i v-if="!invLoading" name="button_header" @click="loadInv('1')" class="fa fa-refresh fa-2x"></i>
+<i v-else name="button_header" class="fa fa-refresh fa-2x fa-spin"></i>
+<span data-balloon-pos="up" aria-label="Фильтр"><i name="button_header" @click="filters.on = !filters.on;" class="fa fa-filter fa-2x"></i></span>
+<span data-balloon-pos="up" aria-label="Сортировка по цене"><i name="button_header" @click="invBody.reverse()" class="fa fa-sort-amount-desc fa-2x"></i></span>
+<span data-balloon-pos="up" aria-label="Изменить размер иконок"><i name="button_header" @click="styleVue.change_preset()" class="fa fa-expand fa-2x"></i></span>
+<span style="font-size: 1.75em">Пользователь</span>
+</div>
+<div>
+<span class="cost" style="font-size: 1.75em; margin-right: 10px;">
+<a v-if="totalPrice < key_value || key_value == -1"><i class='fa fa-cog'></i>[[ totalPrice ]]</a>
+<a v-else><i class='fa fa-key'></i>[[ (totalPrice / key_value).toFixed(2) ]]</a>
+</span>
+</div>
+</div>
+<div class="filter" v-if="filters.on === true">
+<div class="row">
+<img @click="filter(null, null)" src="/static/img/token_all_small.png" title="Мультикласс">
+<img @click="filter('category', '0')" src="/static/img/token_scout_small.png" title="Скаут">
+<img @click="filter('category', '1')" src="/static/img/token_soldier_small.png" title="Солдат">
+<img @click="filter('category', '2')" src="/static/img/token_pyro_small.png" title="Поджигатель">
+<img @click="filter('category', '3')" src="/static/img/token_demo_small.png" title="Подрывник">
+<img @click="filter('category', '4')" src="/static/img/token_heavy_small.png" title="Пулеметчик">
+<img @click="filter('category', '5')" src="/static/img/token_engineer_small.png" title="Инженер">
+<img @click="filter('category', '6')" src="/static/img/token_medic_small.png" title="Медик">
+<img @click="filter('category', '7')" src="/static/img/token_sniper_small.png" title="Снайпер">
+ <img @click="filter('category', '8')" src="/static/img/token_spy_small.png" title="Шпион">
+</div>
+<br>
+<div class="row">
+<input type="text" v-model="search" placeholder="Поиск..." @input="search = search.toLowerCase()">
+<div style="position: relative">
+<button class="craft">Крафт <i class="fa fa-sort-down"></i></button>
+<ul name="menu" class="craft-menu">
+<a @click="filter(null, null)" style="color: #c8bda3" value="0"> Любой</a>
+<a @click="filter('craft', true)" style="color: #AA0000" value="1"> Крафт</a>
+<a @click="filter('craft', false)" style="color: #7D6D00" value="2"> Не Крафт</a>
+</ul>
+</div>
+<div style="position: relative">
+<button class="qual">Качество <i class="fa fa-sort-down"></i></button>
+<ul class="qual-menu" name="menu">
+<a style="color: #c8bda3" @click="filter(null, null)">Любое</a>
+<a style="color: #7D6D00" @click="filter('quality', 6)">Уникальное</a>
+<a style="color: #38F3AB" @click="filter('quality', 13)">Призрачное</a>
+<a style="color: #8650AC" @click="filter('quality', 5)">Необычное</a>
+<a style="color: #CF6A32" @click="filter('quality', 11)">Странное</a>
+<a style="color: #476291" @click="filter('quality', 3)">Ст. закалки</a>
+<a style="color: #4D7455" @click="filter('quality', 1)">Высшей пробы</a>
+<a style="color: #AA0000" @click="filter('quality', 14)">Коллекционное</a>
+<a style="color: #ecf0f1" @click="filter('quality', 15)">Декоративные</a>
+</ul>
+</div>
+<div style="position: relative">
+<button class="type">Тип <i class="fa fa-sort-down"></i></button>
+<ul class="type-menu" name="menu">
+<a style="color: #c8bda3" @click="filter(null, null)">Любой</a>
+<a style="color: #c8bda3" @click="filter('type', 1)">Основной</a>
+<a style="color: #c8bda3" @click="filter('type', 2)">Дополнительный</a>
+<a style="color: #c8bda3" @click="filter('type', 3)">Аксессуар</a>
+<a style="color: #c8bda3" @click="filter('type', 4)">КПК</a>
+<a style="color: #c8bda3" @click="filter('type', 5)">Действие</a>
+<a style="color: #c8bda3" @click="filter('type', 6)">Насмешка</a>
+</ul>
+</div>
+</div>
+</div>
+<div class="selected_body">
+<h2>Авторизуйтесь через Steam</h2>
+</div>
+<hr>
+<div class="inv_body" v-on:scroll.passive="onScroll">
+<div v-show="invLoading" :style="'background-image: url(/static/img/kaz/' + loadingImg + '.gif)'" class="loading_image"></div>
+<div v-for="item in loadItemsPart" @click="moveToSelected(item)" class='item' :quality='item.quality' :style='"background-image: url(" + item.icon + "); border-style:" + (item.craft === true ? "solid" : "double")'>
+<span class="name" v-html="item.locale_name"></span>
+<div v-if="item.effect !== 0" class="item_effect" :style="'background-image: url(/static/img/gif_effects/' + item.effect + '.webp)'"></div>
+<div class="paint" v-if="item.paint">
+<div class="left" :style="'background-color: ' + item.paint[0]"></div>
+<div class="right" :style="'background-color: ' + item.paint[1]"></div>
+</div>
+<span class="spell" v-if="item.spell1" :style="'background-image: url(/static/img/spells/' + item.spell1 + '.png)'"></span>
+<span class="spell2" v-if="item.spell2" :style="'background-image: url(/static/img/spells/' + item.spell2 + '.png)'"></span>
+<a id='amount'> [[ item.ids.length ]]x <span v-if="item.ks" :class="'ks' + item.ks">KS</span></a>
+<a id='price' v-if="item.price < key_value || key_value == -1"><i class='fa fa-cog'></i>[[ item.price ]]</a>
+<a id='price' v-else><i class='fa fa-key'></i>[[ (item.price / key_value).toFixed(2) ]]</a>
+</div>
+</div>
+</div>
+<button class="trade_btn">Обмен!</button>
+<button class="auto_get">Авто подбор</button>
+<div class="inv" id="bot_inv">
+<div class="inv_header">
+<div style="margin-left: 10px">
+<span class="cost" style="font-size: 1.5em; margin-right: 10px;">
+<a v-if="totalPrice < key_value || key_value == -1"><i class='fa fa-cog'></i>[[ totalPrice ]]</a>
+<a v-else><i class='fa fa-key'></i>[[ (totalPrice / key_value).toFixed(2) ]]</a>
+</span>
+<button class="bot_select">Бот [[ selectedBot == null ? '-' : botsList[selectedBot] ]]</button>
+<ul class="bots_list" name="menu">
+<a @click="if(invSelected.length === 0){ selectedBot = null;} ">Все боты</a>
+<a @click="if(invSelected.length === 0){ selectedBot = '76561198349986297'} ">Бот #1</a>
+</ul>
+</div>
+<div>
+<span style="font-size: 1.75em">Бот</span>
+<span data-balloon-pos="up" aria-label="Изменить размер иконок"><i name="button_header" @click="styleVue.change_preset()" class="fa fa-expand fa-2x"></i></span>
+<span data-balloon-pos="up" aria-label="Сортировка по цене"><i name="button_header" @click="invBody.reverse()" class="fa fa-sort-amount-desc fa-2x"></i></span>
+<span data-balloon-pos="up" aria-label="Фильтр"><i name="button_header" @click="filters.on = !filters.on;" class="fa fa-filter fa-2x"></i></span>
+<i v-else name="button_header" class="fa fa-refresh fa-2x fa-spin"></i>
+<i v-if="!invLoading" name="button_header" @click="loadInv('1')" class="fa fa-refresh fa-2x"></i>
+</div>
+</div>
+<div class="filter" v-if="filters.on === true">
+<div class="row">
+<img @click="filter(null, null)" src="/static/img/token_all_small.png" title="Мультикласс">
+<img @click="filter('category', '0')" src="/static/img/token_scout_small.png" title="Скаут">
+<img @click="filter('category', '1')" src="/static/img/token_soldier_small.png" title="Солдат">
+<img @click="filter('category', '2')" src="/static/img/token_pyro_small.png" title="Поджигатель">
+<img @click="filter('category', '3')" src="/static/img/token_demo_small.png" title="Подрывник">
+<img @click="filter('category', '4')" src="/static/img/token_heavy_small.png" title="Пулеметчик">
+<img @click="filter('category', '5')" src="/static/img/token_engineer_small.png" title="Инженер">
+<img @click="filter('category', '6')" src="/static/img/token_medic_small.png" title="Медик">
+<img @click="filter('category', '7')" src="/static/img/token_sniper_small.png" title="Снайпер">
+<img @click="filter('category', '8')" src="/static/img/token_spy_small.png" title="Шпион">
+</div>
+<br>
+<div class="row">
+<input type="text" v-model="search" placeholder="Поиск..." @input="search = search.toLowerCase()">
+<div style="position: relative">
+<button class="craft">Крафт <i class="fa fa-sort-down"></i></button>
+<ul name="menu" class="craft-menu">
+<a @click="filter(null, null)" style="color: #c8bda3" value="0"> Любой</a>
+<a @click="filter('craft', true)" style="color: #AA0000" value="1"> Крафт</a>
+<a @click="filter('craft', false)" style="color: #7D6D00" value="2"> Не Крафт</a>
+</ul>
+</div>
+<div style="position: relative">
+<button class="qual">Качество <i class="fa fa-sort-down"></i></button>
+<ul class="qual-menu" name="menu">
+<a style="color: #c8bda3" @click="filter(null, null)">Любое</a>
+<a style="color: #7D6D00" @click="filter('quality', 6)">Уникальное</a>
+<a style="color: #38F3AB" @click="filter('quality', 13)">Призрачное</a>
+<a style="color: #8650AC" @click="filter('quality', 5)">Необычное</a>
+<a style="color: #CF6A32" @click="filter('quality', 11)">Странное</a>
+<a style="color: #476291" @click="filter('quality', 3)">Ст. закалки</a>
+<a style="color: #4D7455" @click="filter('quality', 1)">Высшей пробы</a>
+<a style="color: #AA0000" @click="filter('quality', 14)">Коллекционное</a>
+<a style="color: #ecf0f1" @click="filter('quality', 15)">Декоративные</a>
+</ul>
+</div>
+<div style="position: relative">
+<button class="type">Тип <i class="fa fa-sort-down"></i></button>
+<ul class="type-menu" name="menu">
+<a style="color: #c8bda3" @click="filter(null, null)">Любой</a>
+<a style="color: #c8bda3" @click="filter('type', 1)">Основной</a>
+<a style="color: #c8bda3" @click="filter('type', 2)">Дополнительный</a>
+<a style="color: #c8bda3" @click="filter('type', 3)">Аксессуар</a>
+<a style="color: #c8bda3" @click="filter('type', 4)">КПК</a>
+<a style="color: #c8bda3" @click="filter('type', 5)">Действие</a>
+<a style="color: #c8bda3" @click="filter('type', 6)">Насмешка</a>
+</ul>
+</div>
+</div>
+</div>
+<div class="selected_body">
+<h2 v-if="invSelected.length == 0">[[ invMessage ]]</h2>
+<div v-for="item in invSelected" class='item' @click="moveToBody(item)" :quality='item.quality' :style='"background-image: url(" + item.icon + "); border-style:" + (item.craftable === true ? "solid" : "double")'>
+<span class="name" v-html="item.locale_name"></span>
+<div v-if="item.effect !== 0" class="item_effect" :style="'background-image: url(/static/img/gif_effects/' + item.effect + '.webp)'"></div>
+<div class="paint" v-if="item.paint">
+<div class="left" :style="'background-color: ' + item.paint[0]"></div>
+<div class="right" :style="'background-color: ' + item.paint[1]"></div>
+</div>
+<span class="spell" v-if="item.spell1" :style="'background-image: url(/static/img/spells/' + item.spell1 + '.png)'"></span>
+<span class="spell2" v-if="item.spell2" :style="'background-image: url(/static/img/spells/' + item.spell2 + '.png)'"></span>
+<a id='amount'> [[ item.ids.length ]]x <span v-if="item.ks" :class="'ks' + item.ks">KS</span></a>
+<a id='price' v-if="item.price < key_value || key_value == -1"><i class='fa fa-cog'></i>[[ item.price ]]</a>
+<a id='price' v-else><i class='fa fa-key'></i>[[ (item.price / key_value).toFixed(2) ]]</a>
+</div>
+</div>
+<hr>
+<div class="inv_body" v-on:scroll.passive="onScroll">
+<div v-show="invLoading" :style="'background-image: url(/static/img/kaz/' + loadingImg + '.gif)'" class="loading_image"></div>
+<div v-for="item in loadItemsPart" @click="moveToSelected(item)" @contextmenu.prevent="for (let i = 0; i < item.ids.length; i++) moveToSelected(item)" class='item' :quality='item.quality' :style='"background-image: url(" + item.icon + "); border-style:" + (item.craftable === true ? "solid" : "double")'>
+<span class="name" v-html="item.locale_name"></span>
+<div v-if="item.effect !== 0" class="item_effect" :style="'background-image: url(/static/img/gif_effects/' + item.effect + '.webp)'"></div>
+<div class="paint" v-if="item.paint_id">
+<div class="left" :style="'background-color: ' + item.paint[0]"></div>
+<div class="right" :style="'background-color: ' + item.paint[1]"></div>
+</div>
+<span class="spell" v-if="item.spell1" :style="'background-image: url(/static/img/spells/' + item.spell1 + '.png)'"></span>
+<span class="spell2" v-if="item.spell2" :style="'background-image: url(/static/img/spells/' + item.spell2 + '.png)'"></span>
+<a id='amount'> [[ item.ids.length ]]x <span v-if="item.ks" :class="'ks' + item.ks">KS</span></a>
+<a id='price' v-if="item.price < key_value || key_value == -1"><i class='fa fa-cog'></i>[[ item.price ]]</a>
+<a id='price' v-else><i class='fa fa-key'></i>[[ (item.price / key_value).toFixed(2) ]]</a>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+<div class="column">
+<h3><a onclick="if (!window.__cfRLUnblockHandlers) return false; window.open(&quot;https://discord.gg/VQD3hkv&quot;)" target="_blank" data-cf-modified-851ba97ee621508f2372bdc6-="">Discord</a></h3>
+<h3><a onclick="if (!window.__cfRLUnblockHandlers) return false; $(&quot;#giftmodal&quot;).arcticmodal()" data-cf-modified-851ba97ee621508f2372bdc6-="">Цены</a></h3>
+<h3><a onclick="if (!window.__cfRLUnblockHandlers) return false; window.open(&quot;https://www.youtube.com/channel/UCfzkZhnT0ECxgZDdAzXWftg&quot;)" data-cf-modified-851ba97ee621508f2372bdc6-=""><i class="fa fa-youtube"></i> ВТрейде</a></h3>
+</div>
+<div class="column">
+Добавьте к своему нику Steam <span style="color:#FF9A52;">tftrade.ru</span> или <span style="color:#FF9A52;">tftrade.net</span><br> и получите <span style="color:#FF9A52">2%</span> к стоимости ваших вещей!
+</div>
+<div class="column">
+<h1>
+<a href="https://steamcommunity.com/groups/tftraderu" target="_blank"><i class="fa fa-steam"></i></a>
+<a href="https://vk.com/tftradeofficial" target="_blank"><i class="fa fa-vk"></i></a>
+<a href="https://www.youtube.com/channel/UCfzkZhnT0ECxgZDdAzXWftg" target="_blank"><i class="fa fa-youtube"></i></a>
+</h1>
+</div>
+</div>
+
+<link rel="stylesheet" href="/static/css/home.css?v893">
+<link rel="stylesheet" href="/static/css/tooltip.css?v72">
+
+<script src="/static/js/classes/paints.js?v1.1" type="851ba97ee621508f2372bdc6-text/javascript"></script>
+<script src="/static/js/classes/style.js?v1.63" type="851ba97ee621508f2372bdc6-text/javascript"></script>
+<script src="/static/js/classes/message.js?v1.14" type="851ba97ee621508f2372bdc6-text/javascript"></script>
+<script src="/static/js/classes/bot.js?v2.52" type="851ba97ee621508f2372bdc6-text/javascript"></script>
+<script src="/static/js/classes/user.js?v1.64" type="851ba97ee621508f2372bdc6-text/javascript"></script>
+<script src="/static/js/js_funcs.js?v1.12" type="851ba97ee621508f2372bdc6-text/javascript"></script>
+<script src="/static/js/js.js?v3.58" type="851ba97ee621508f2372bdc6-text/javascript"></script>
+<div id="style_">
+<v-style>background-color blue
+    
